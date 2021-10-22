@@ -1,0 +1,16 @@
+/* *** box format *** */
+.box {
+    min-height: 150px;
+    background-color: lightpink;
+    border: 1px solid black;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 150px;
+}
+
+
+
+/* *** debug *** */
+/* .debug .container {
+    background-color: lightcoral;
+} */
