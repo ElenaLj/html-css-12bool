@@ -281,7 +281,7 @@
     }
 }
 
-@media screen and (min-width: 1200px) {
+/* @media screen and (min-width: 1200px) {
     .container {
         width: 100%;
         max-width: 100%;
@@ -346,4 +346,4 @@
         flex-basis: calc((100% / 12) * 12);
         max-width: calc((100% / 12) * 12);
     }
-}
+} */
